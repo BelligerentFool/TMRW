@@ -6,7 +6,7 @@
 
 ◆ 1 Minute Block Time
 
-◆ 6 Block Per Difficulty Adjustment (200% Max)
+◆ 6 Blocks Per Difficulty Adjustment (200% Max)
 
 ◆ 30 TMRW per Block
 
