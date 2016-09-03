@@ -1079,8 +1079,8 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
             nSubsidy = 28944700000000;
         }
 
-    // Subsidy is cut in half every 482,412 blocks, which will occur approximately every 355 days
-    nSubsidy >>= (nHeight / 482412); // TomorrowCoin: 482,412 blocks in ~355 days
+    // Subsidy is cut in half every 482,412 blocks, which will occur approximately every 335 days
+    nSubsidy >>= (nHeight / 482412); // TomorrowCoin: 482,412 blocks in ~335 days
 
     return nSubsidy + nFees;
 }
