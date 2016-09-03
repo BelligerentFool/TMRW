@@ -10,7 +10,7 @@
 
 ◆ 30 TMRW per Block
 
-◆ Reward Halves every 482,412 Blocks or 355 Days
+◆ Reward Halves every 482,412 Blocks or 335 Days
 
 ◆ 28,944,720 Total Coins
 
