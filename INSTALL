@@ -1,0 +1,9 @@
+Building TomorrowCoin
+
+See doc/readme-qt.rst for instructions on building TomorrowCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TomorrowCoin.
+
+See doc/build-*.txt for instructions on building tomorrowcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TomorrowCoin.
